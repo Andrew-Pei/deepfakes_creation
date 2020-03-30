@@ -8,4 +8,3 @@ DeepFaceLab: https://github.com/iperov/DeepFaceLab
 
 DFaker: https://github.com/dfaker/df
 
-DeepFake-tf: https://github.com/StormWine/DeepFake-tf
